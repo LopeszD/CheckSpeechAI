@@ -297,6 +297,11 @@ a:hover, a:focus {
     margin-bottom: 50px;
 }
 
+.price-plan .contact-us {
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
 .price-plan {
     width: 300px;
     padding: 30px;
